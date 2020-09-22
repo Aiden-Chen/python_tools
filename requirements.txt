@@ -1,0 +1,14 @@
+fire
+numpy==1.19.1
+numba==0.48.0
+onnx==1.7.0
+onnxruntime==1.3.0
+scikit-image==0.17.2
+opencv-python==4.2.0.34
+seaborn==0.10.0
+psutil==5.7.0
+xlrd==1.2.0
+xlutils==2.0.0
+pandas==1.1.0
+torch==1.4.0+cpu
+torchvision==0.5.0+cpu
